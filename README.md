@@ -14,6 +14,8 @@
 
 感谢[@星星awa](https://space.bilibili.com/111933676)提供Safari适配思路
 
+感谢[lchzh3473](https://github.com/lchzh3473)提供模拟器。
+
 ## 更新日志
 
 ### [1.4.14] - 2021-12-23
